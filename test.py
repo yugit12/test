@@ -1,2 +1,3 @@
 import math
-import time
+print("aadc")
+a=1+1
